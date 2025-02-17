@@ -1,4 +1,4 @@
-# Data_Visualisation_Earthquake
+# Earthquake Data Visualisation
 
 
 Using the linked dataset below produce a series of visualisations demonstrating the use of Matplotlib.
